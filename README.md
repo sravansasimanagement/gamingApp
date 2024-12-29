@@ -23,12 +23,6 @@ The objective of this project is to create a functional and visually appealing A
 - Display the selected game's details.
 - Include a **Play** button that currently performs a placeholder action (e.g., displays a toast or message).
 
-## Technical Requirements
-- **State Management**: Implemented using **Redux** or **Context API**.
-- **Local Storage**: Persist the list of favorite games using **AsyncStorage**.
-- **UI Components**: Use **React Native Paper** or **NativeBase** for a clean, user-friendly interface.
-- **Android APK**: Build and deliver the APK for testing and deployment.
-
 ## Installation
 
 ### Prerequisites
